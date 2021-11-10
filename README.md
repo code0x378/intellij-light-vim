@@ -1,3 +1,12 @@
+----
+
+**NOTE**
+
+Project moved to source hut:
+https://git.sr.ht/~code0x378/intellij-light-vim-colorscheme
+
+----
+
 # Intellij Light Color Scheme for Vim
 
 This is a very basic, incomplete vim color scheme inspired by Intellij Light.  The initial colors were generated from [ThemeCreator](https://mswift42.github.io/themecreator/).  Minor ui tweaks for gvim were also made.
